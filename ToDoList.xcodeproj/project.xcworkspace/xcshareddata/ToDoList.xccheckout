@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9BBE52A6-6499-430F-889D-E9287EF4A70B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ToDoList</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>3C052184-DE72-42C3-8B4E-C054165482B6</key>
+		<string>https://github.com/JackGerrity/TestIOS.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ToDoList.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>3C052184-DE72-42C3-8B4E-C054165482B6</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/JackGerrity/TestIOS.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>3C052184-DE72-42C3-8B4E-C054165482B6</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>3C052184-DE72-42C3-8B4E-C054165482B6</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TestIOS</string>
+		</dict>
+	</array>
+</dict>
+</plist>
